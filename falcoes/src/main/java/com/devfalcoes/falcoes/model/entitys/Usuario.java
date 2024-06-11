@@ -1,4 +1,4 @@
-package com.devfalcoes.falcoes.controller;
+package com.devfalcoes.falcoes.model.entitys;
 
 import lombok.Data;
 
